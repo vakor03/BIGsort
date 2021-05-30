@@ -1,0 +1,12 @@
+
+BIGsort/.idea/.idea.BIGsort/.idea/
+
+BIGsort/BIGsort.ConsoleApp/.dockerignore
+
+BIGsort/BIGsort.ConsoleApp/bin/Debug/net5.0/
+
+BIGsort/BIGsort.ConsoleApp/obj/
+
+BIGsort/BIGsort.Lib/bin/Debug/net5.0/
+
+BIGsort/BIGsort.Lib/obj/
